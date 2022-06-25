@@ -10,7 +10,7 @@
     "ethers": "^4.0.33",
     "express": "^4.16.4",
     "logger": "0.0.1",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.7",
     "nodemon": "^1.19.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
